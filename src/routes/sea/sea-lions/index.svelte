@@ -5,8 +5,8 @@
 
 <main>
 	<Nav />
-	<h1>Small dogs</h1>
+	<h1>Sea / Sea lions</h1>
 	<div>
-		<Image src="images/dogs/small-dogs.jpg" />
+		<Image src="images/sea/sea-lions.jpg" />
 	</div>
 </main>
