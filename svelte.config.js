@@ -16,7 +16,7 @@ const config = {
 
     preprocess: [
         imagePreprocessor({
-            inputDir: 'static/images',
+            inputDir: 'static',
             outputDir: 'static/optimized-images',
             webp: true,
             avif: false

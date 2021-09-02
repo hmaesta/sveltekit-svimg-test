@@ -5,7 +5,7 @@
 <section>
 	<label>Big dogs</label>
 	<div>
-		<Image src="big-dogs.jpg" />
+		<Image src="images/big-dogs.jpg" />
 	</div>
 	<footer>
 		<a href="/small-dogs/">Show me small dogs!</a>
