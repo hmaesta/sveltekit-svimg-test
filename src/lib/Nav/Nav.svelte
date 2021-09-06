@@ -11,6 +11,14 @@
 		&middot;
 		<a href="/sea/turtle/">Turtle</a>
 	</div>
+	<div>
+		<span>Birds:</span>
+		<a href="/birds">Orange bird</a>
+	</div>
+	<div>
+		<span>All:</span>
+		<a href="/all">All animals</a>
+	</div>
 </nav>
 
 <style>
